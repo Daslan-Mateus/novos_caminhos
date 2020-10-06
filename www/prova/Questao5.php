@@ -13,7 +13,7 @@
 
 // Se $sequence = [1, 3, 2], a saída deve ser true.
 // Você pode remover 3 do vetor para obter a sequência
-// estritamente crescente [1, 2]. 
+// estritamente crescente [1, 2].
 // Como alternativa, você pode remover 2 para obter a
 // sequência estritamente crescente [1, 3].
 

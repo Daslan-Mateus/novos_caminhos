@@ -8,19 +8,21 @@
 // Como ele gosta de fazer as coisas perfeitas, ele quer
 // organizá-las da menor para a maior, de forma que cada
 // estátua seja maior que a anterior exatamente em 1.
-// Ele pode precisar de algumas estátuas adicionais 
-// para conseguir isso. 
+// Ele pode precisar de algumas estátuas adicionais
+// para conseguir isso.
 // Ajude-o a descobrir o número mínimo de estátuas
 // adicionais necessárias.
 
 //Exemplo
 
-//Se statues = [6, 2, 3, 8], o valor
+$statues = [6, 2, 3, 8];
 // de retorno deve ser 3.
 // Gisifruno precisa de estátuas de tamanhos 4, 5 e 7
 // ou seja de três estátuas
 
 function makeArrayConsecutive2($statues)
 {
-    // CÓDIGO
+    asort($statues);
+    return $statues;
 }
+echo makeArrayConsecutive2($statues);

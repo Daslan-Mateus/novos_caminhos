@@ -1,0 +1,104 @@
+[12-Sep-2020 16:34:33 America/Araguaina] PHP Warning:  require(/usr/share/nginx/html/framework/../framework/fsphp.php): failed to open stream: No such file or directory in /usr/share/nginx/html/framework/template.php on line 2
+[12-Sep-2020 16:34:33 America/Araguaina] PHP Stack trace:
+[12-Sep-2020 16:34:33 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/framework/template.php:0
+[12-Sep-2020 16:34:33 America/Araguaina] PHP Fatal error:  require(): Failed opening required '/usr/share/nginx/html/framework/../framework/fsphp.php' (include_path='.:/usr/local/lib/php') in /usr/share/nginx/html/framework/template.php on line 2
+[12-Sep-2020 16:34:33 America/Araguaina] PHP Stack trace:
+[12-Sep-2020 16:34:33 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/framework/template.php:0
+[12-Sep-2020 16:39:16 America/Araguaina] PHP Warning:  require(/usr/share/nginx/html/framework/2.2_Comandos_de_saida/../framework/config.php): failed to open stream: No such file or directory in /usr/share/nginx/html/framework/2.2_Comandos_de_saida/index.php on line 2
+[12-Sep-2020 16:39:16 America/Araguaina] PHP Stack trace:
+[12-Sep-2020 16:39:16 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/framework/2.2_Comandos_de_saida/index.php:0
+[12-Sep-2020 16:39:16 America/Araguaina] PHP Fatal error:  require(): Failed opening required '/usr/share/nginx/html/framework/2.2_Comandos_de_saida/../framework/config.php' (include_path='.:/usr/local/lib/php') in /usr/share/nginx/html/framework/2.2_Comandos_de_saida/index.php on line 2
+[12-Sep-2020 16:39:16 America/Araguaina] PHP Stack trace:
+[12-Sep-2020 16:39:16 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/framework/2.2_Comandos_de_saida/index.php:0
+[01-Oct-2020 17:11:58 America/Araguaina] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /usr/share/nginx/html/prova/Questao2.php on line 21
+[01-Oct-2020 17:30:52 America/Araguaina] PHP Fatal error:  Uncaught Error: Unsupported operand types in /usr/share/nginx/html/prova/Questao3.php:20
+Stack trace:
+#0 /usr/share/nginx/html/prova/Questao3.php(23): adjacentElementsProduct()
+#1 {main}
+  thrown in /usr/share/nginx/html/prova/Questao3.php on line 20
+[01-Oct-2020 17:30:54 America/Araguaina] PHP Fatal error:  Uncaught Error: Unsupported operand types in /usr/share/nginx/html/prova/Questao3.php:20
+Stack trace:
+#0 /usr/share/nginx/html/prova/Questao3.php(23): adjacentElementsProduct()
+#1 {main}
+  thrown in /usr/share/nginx/html/prova/Questao3.php on line 20
+[01-Oct-2020 17:30:56 America/Araguaina] PHP Fatal error:  Uncaught Error: Unsupported operand types in /usr/share/nginx/html/prova/Questao3.php:20
+Stack trace:
+#0 /usr/share/nginx/html/prova/Questao3.php(23): adjacentElementsProduct()
+#1 {main}
+  thrown in /usr/share/nginx/html/prova/Questao3.php on line 20
+[01-Oct-2020 17:30:56 America/Araguaina] PHP Fatal error:  Uncaught Error: Unsupported operand types in /usr/share/nginx/html/prova/Questao3.php:20
+Stack trace:
+#0 /usr/share/nginx/html/prova/Questao3.php(23): adjacentElementsProduct()
+#1 {main}
+  thrown in /usr/share/nginx/html/prova/Questao3.php on line 20
+[01-Oct-2020 17:31:30 America/Araguaina] PHP Fatal error:  Uncaught Error: Unsupported operand types in /usr/share/nginx/html/prova/Questao3.php:20
+Stack trace:
+#0 /usr/share/nginx/html/prova/Questao3.php(23): adjacentElementsProduct()
+#1 {main}
+  thrown in /usr/share/nginx/html/prova/Questao3.php on line 20
+[01-Oct-2020 17:31:31 America/Araguaina] PHP Fatal error:  Uncaught Error: Unsupported operand types in /usr/share/nginx/html/prova/Questao3.php:20
+Stack trace:
+#0 /usr/share/nginx/html/prova/Questao3.php(23): adjacentElementsProduct()
+#1 {main}
+  thrown in /usr/share/nginx/html/prova/Questao3.php on line 20
+[01-Oct-2020 17:31:31 America/Araguaina] PHP Fatal error:  Uncaught Error: Unsupported operand types in /usr/share/nginx/html/prova/Questao3.php:20
+Stack trace:
+#0 /usr/share/nginx/html/prova/Questao3.php(23): adjacentElementsProduct()
+#1 {main}
+  thrown in /usr/share/nginx/html/prova/Questao3.php on line 20
+[01-Oct-2020 17:31:50 America/Araguaina] PHP Fatal error:  Uncaught Error: Unsupported operand types in /usr/share/nginx/html/prova/Questao3.php:20
+Stack trace:
+#0 /usr/share/nginx/html/prova/Questao3.php(23): adjacentElementsProduct()
+#1 {main}
+  thrown in /usr/share/nginx/html/prova/Questao3.php on line 20
+[01-Oct-2020 17:32:10 America/Araguaina] PHP Fatal error:  Uncaught Error: Unsupported operand types in /usr/share/nginx/html/prova/Questao3.php:20
+Stack trace:
+#0 /usr/share/nginx/html/prova/Questao3.php(23): adjacentElementsProduct()
+#1 {main}
+  thrown in /usr/share/nginx/html/prova/Questao3.php on line 20
+[01-Oct-2020 17:32:11 America/Araguaina] PHP Fatal error:  Uncaught Error: Unsupported operand types in /usr/share/nginx/html/prova/Questao3.php:20
+Stack trace:
+#0 /usr/share/nginx/html/prova/Questao3.php(23): adjacentElementsProduct()
+#1 {main}
+  thrown in /usr/share/nginx/html/prova/Questao3.php on line 20
+[01-Oct-2020 17:32:11 America/Araguaina] PHP Fatal error:  Uncaught Error: Unsupported operand types in /usr/share/nginx/html/prova/Questao3.php:20
+Stack trace:
+#0 /usr/share/nginx/html/prova/Questao3.php(23): adjacentElementsProduct()
+#1 {main}
+  thrown in /usr/share/nginx/html/prova/Questao3.php on line 20
+[01-Oct-2020 17:32:12 America/Araguaina] PHP Fatal error:  Uncaught Error: Unsupported operand types in /usr/share/nginx/html/prova/Questao3.php:20
+Stack trace:
+#0 /usr/share/nginx/html/prova/Questao3.php(23): adjacentElementsProduct()
+#1 {main}
+  thrown in /usr/share/nginx/html/prova/Questao3.php on line 20
+[01-Oct-2020 17:32:12 America/Araguaina] PHP Fatal error:  Uncaught Error: Unsupported operand types in /usr/share/nginx/html/prova/Questao3.php:20
+Stack trace:
+#0 /usr/share/nginx/html/prova/Questao3.php(23): adjacentElementsProduct()
+#1 {main}
+  thrown in /usr/share/nginx/html/prova/Questao3.php on line 20
+[01-Oct-2020 17:32:13 America/Araguaina] PHP Fatal error:  Uncaught Error: Unsupported operand types in /usr/share/nginx/html/prova/Questao3.php:20
+Stack trace:
+#0 /usr/share/nginx/html/prova/Questao3.php(23): adjacentElementsProduct()
+#1 {main}
+  thrown in /usr/share/nginx/html/prova/Questao3.php on line 20
+[01-Oct-2020 17:35:11 America/Araguaina] PHP Fatal error:  Uncaught Error: Unsupported operand types in /usr/share/nginx/html/prova/Questao3.php:20
+Stack trace:
+#0 /usr/share/nginx/html/prova/Questao3.php(23): adjacentElementsProduct()
+#1 {main}
+  thrown in /usr/share/nginx/html/prova/Questao3.php on line 20
+[01-Oct-2020 17:35:12 America/Araguaina] PHP Fatal error:  Uncaught Error: Unsupported operand types in /usr/share/nginx/html/prova/Questao3.php:20
+Stack trace:
+#0 /usr/share/nginx/html/prova/Questao3.php(23): adjacentElementsProduct()
+#1 {main}
+  thrown in /usr/share/nginx/html/prova/Questao3.php on line 20
+[01-Oct-2020 17:35:57 America/Araguaina] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /usr/share/nginx/html/prova/Questao3.php on line 21
+[01-Oct-2020 17:35:58 America/Araguaina] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /usr/share/nginx/html/prova/Questao3.php on line 21
+[01-Oct-2020 17:36:18 America/Araguaina] PHP Notice:  Array to string conversion in /usr/share/nginx/html/prova/Questao3.php on line 23
+[01-Oct-2020 17:36:18 America/Araguaina] PHP Stack trace:
+[01-Oct-2020 17:36:18 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/prova/Questao3.php:0
+[01-Oct-2020 17:37:32 America/Araguaina] PHP Notice:  Array to string conversion in /usr/share/nginx/html/prova/Questao3.php on line 23
+[01-Oct-2020 17:37:32 America/Araguaina] PHP Stack trace:
+[01-Oct-2020 17:37:32 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/prova/Questao3.php:0
+[01-Oct-2020 18:05:07 America/Araguaina] PHP Notice:  Array to string conversion in /usr/share/nginx/html/prova/Questao4.php on line 28
+[01-Oct-2020 18:05:07 America/Araguaina] PHP Stack trace:
+[01-Oct-2020 18:05:07 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/prova/Questao4.php:0

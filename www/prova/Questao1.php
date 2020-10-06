@@ -19,10 +19,8 @@
 //Retorno inteiro
 //O número do século em que se encontra o ano.
 
-
 function centuryFromYear($year)
 {
-
-    // CÓDIGO ...
-
+    return ceil($year / 100);
 }
+echo centuryFromYear(374);

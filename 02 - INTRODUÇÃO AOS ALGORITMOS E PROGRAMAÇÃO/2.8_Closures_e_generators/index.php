@@ -3,8 +3,8 @@ require __DIR__ . '/../framework/config.php';
 PHPClassName('2.8 - Closures e Generators');
 
 /*
-*
-*/
+ *
+ */
 PHPClassSession('CLOSURES', __LINE__);
 
 $myAge = function ($year) {
@@ -18,7 +18,9 @@ $priceBRL = function ($price) {
     return number_format($price, 2, ",", ".");
 };
 
-echo "<p> Os futuros projetos dos alunos do novos caminhos custarão R$ {$priceBRL(10000)}. Vamos Fechar ?</p>";
+echo "<p> Os futuros projetos dos alunos do novos caminhos custarão R$ {$priceBRL(
+    10000
+)}. Vamos Fechar ?</p>";
 
 $myCart = [];
 $myCart['totalPrice'] = 0;

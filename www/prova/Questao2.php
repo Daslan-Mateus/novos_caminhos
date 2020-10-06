@@ -15,8 +15,14 @@
 //Resultado booleano
 // true se inputString é um palíndromo,
 // false se caso contrário.
-
+$input = "zzzazzazz";
 function checkPalindrome($inputString)
 {
-    // CÓDIGO
+    if (strrev($inputString) == $inputString) {
+        return true;
+    } else {
+        return false;
+    }
 }
+
+echo checkPalindrome($input);

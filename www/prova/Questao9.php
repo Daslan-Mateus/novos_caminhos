@@ -9,7 +9,7 @@
 // O valor -1 representa uma árvore
 // valor positivo representa a altura de uma pessoa
 
-// Existem árvores entre as pessoas e as árvores 
+// Existem árvores entre as pessoas e as árvores
 // não não podem ser movidas.
 
 // Sua tarefa é reorganizar as pessoas por suas alturas
@@ -19,10 +19,10 @@
 
 //Exemplo
 
-//Se $a = [-1, 150, 190, 170, -1, -1, 160, 180], 
+//Se $a = [-1, 150, 190, 170, -1, -1, 160, 180],
 // o retorno deve ser [-1, 150, 160, 170, -1, -1, 180, 190].
 
 function sortByHeight($a)
 {
-    // CÓDIGO
+    //
 }
